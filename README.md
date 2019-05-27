@@ -1,4 +1,4 @@
-# EBONLINE! (Pretty)
+# MMONLINE! (Pretty)
 All NES releases of Mega Man emulated online
 
 
