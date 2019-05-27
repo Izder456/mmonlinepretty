@@ -6,4 +6,4 @@ All NES releases of Mega Man emulated online
 * MM[num] = Mega Man [num] for NES
 
 ## How to Use
-* Go to site: 
+* Go to site: http://bit.ly/mmemu
