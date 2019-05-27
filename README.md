@@ -1,12 +1,9 @@
 # EBONLINE! (Pretty)
-All Mother/Earthbound Games emulated online using NeptunJS.
+All NES releases of Mega Man emulated online
 
 
 ## Page Nomenclature
-* Earth0 = Mother 1/EarthBound Zero
-* Earth1 = Mother 2/EarthBound
-* Earth2 = Mother 3/EarthBound 2
-* Earth3 = EarthBound Halloween Hack (by Toby Fox)
+* MM[num] = Mega Man [num] for NES
 
 ## How to Use
-* Go to site: http://bit.ly/ebemu
+* Go to site: 
