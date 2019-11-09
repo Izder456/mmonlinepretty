@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mmonlinepretty.netlify.com
+Token: c1dd4756e08a3a11f46ea0b29432ffce5b112e6b2a3f33d3d7f8e743fe3a3d73
